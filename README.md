@@ -1,16 +1,16 @@
-![MasterHead](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47zdvyox19njdir3iwtmzpkhkizwf74tdyhc7n4stk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is M.Ali Hassan
 ====================================================================================================================================
 
-Back-end Developer
+Web Developer
 ------------------
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm Muhammad Ali Hassan, a Backend developer with over 1 years of experience in Backend. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+I'm Muhammad Ali Hassan, a Web developer with over 1 years of experience in Web Developing. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [maqsoodia777@gmail.com](mailto:maqsoodia777@gmail.com)
-* 🧠  I'm learning Danjo
+* 🧠  I'm learning Next js
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am a Spiderman, Tell Everyone
 
