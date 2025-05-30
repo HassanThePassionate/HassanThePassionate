@@ -8,7 +8,7 @@ Front-end Developer
 I'm Muhammad Ali Hassan, a Web developer with over 1 years of experience in Web Developing. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [alihassan.devs12@gmail.com](mailto:alihassan.dev12@gmail.com)
+* ✉️  You can contact me at [ali.zinlab@gmail.com](mailto:ali.zinlab@gmail.com)
 * 🧠  I'm learning Next js
 * 🤝  I'm open to collaborating on Intersting Projects
 * ⚡  I am a Front-end Developer.
