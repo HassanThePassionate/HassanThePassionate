@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I'm Muhammad Ali Hassan, a Web developer with over 1 years of experience in Web Developing. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+I'm Muhammad Ali Hassan, a Web developer with over 2+ years of experience in Web Developing. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ali.zinlab@gmail.com](mailto:ali.zinlab@gmail.com)
